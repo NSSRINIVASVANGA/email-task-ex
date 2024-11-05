@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .new-mail {
+    font-size: 16px;
+    color: #0078d4;
+    cursor: pointer;
+  }
+  
+  .search-bar input {
+    padding: 5px;
+    width: 200px;
+  }
+  
